@@ -42,7 +42,6 @@ $(function () {
 
         map.set('styles', styles);
 
-
     }
 
     google.maps.event.addDomListener(window, 'load', initMap);
