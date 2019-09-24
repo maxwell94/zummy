@@ -8,9 +8,7 @@
   }
   
   .card-signin {
-    margin: 60px auto; 
-    float: none; 
-    margin-bottom: 10px; /* Added */    
+    margin-top:25%; 
     border: 0;
     border-radius: 1rem;
     box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
